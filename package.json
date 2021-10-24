@@ -1,0 +1,23 @@
+{
+  "name": "ajs-library-3.2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "dist/index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Geluza/ajs-library-3.2.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Geluza/ajs-library-3.2/issues"
+  },
+  "homepage": "https://github.com/Geluza/ajs-library-3.2#readme",
+  "dependencies": {
+    "@geluza/ajs-library-3.1": "^1.0.0"
+  }
+}
